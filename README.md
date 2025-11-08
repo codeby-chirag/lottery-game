@@ -1,16 +1,19 @@
-# React + Vite
+🎟️ Lottery Game — React Practice Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was created as a practice exercise to improve understanding of React component hierarchy, component decomposition, and state management concepts such as lifting state up.
 
-Currently, two official plugins are available:
+The app simulates a simple lottery system where users can generate random tickets and check if they win based on certain conditions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Through this project, the focus was on:
 
-## React Compiler
+🧩 Designing a clear component hierarchy for better scalability
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚛️ Practicing component decomposition to make code modular and reusable
 
-## Expanding the ESLint configuration
+🔄 Implementing state management effectively using React Hooks (useState)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⬆️ Learning how to lift state up and share data between components
+
+🎨 Applying modern UI design principles and CSS animations for interactivity
+
+This project helps build a strong foundation in React development, preparing for larger apps with proper structure and maintainable code.
